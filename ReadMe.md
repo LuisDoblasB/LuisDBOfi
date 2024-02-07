@@ -1,5 +1,5 @@
 # 💫 About Me:
-I´m currently working in improving my own skills and learning python.<br>
+<br>
 
 
 ## 🌐 Socials:
